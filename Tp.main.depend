@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1585767097 source:c:\users\marina\desktop\funciones\tp.main\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1585935120 source:c:\users\marina\desktop\tp i programación\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586996540 source:c:\users\marina\desktop\programacion i\tp i programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SumarV1.h"
+	"restarV1.h"
+	"MultiplicarV1.h"
+	"dividirV1.h"
+	"FactorialV1.h"
+
+1586039638 c:\users\marina\desktop\programacion i\tp i programación\sumarv1.h
+
+1586040248 c:\users\marina\desktop\programacion i\tp i programación\restarv1.h
+
+1586042794 c:\users\marina\desktop\programacion i\tp i programación\multiplicarv1.h
+
+1586042458 c:\users\marina\desktop\programacion i\tp i programación\dividirv1.h
+
+1586044500 c:\users\marina\desktop\programacion i\tp i programación\factorialv1.h
+
+1587163144 source:c:\users\marina\desktop\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesCalculadora.h"
+
+1586039638 c:\users\marina\desktop\trabajopractico1\sumarv1.h
+
+1586040248 c:\users\marina\desktop\trabajopractico1\restarv1.h
+
+1586042794 c:\users\marina\desktop\trabajopractico1\multiplicarv1.h
+
+1586042458 c:\users\marina\desktop\trabajopractico1\dividirv1.h
+
+1586044500 c:\users\marina\desktop\trabajopractico1\factorialv1.h
+
+1587149783 source:c:\users\marina\desktop\programacion i\trabajopractico1\sumar.c
+
+1587159135 c:\users\marina\desktop\trabajopractico1\operacionescalculadora.h
+
+1587161421 source:c:\users\marina\desktop\trabajopractico1\operacionescalculadora.c
+
